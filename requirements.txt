@@ -1,0 +1,5 @@
+requests
+selenium
+webdriver-manager
+
+#you must have python 3.10 or higher to run this program, if you have python 3.9 or lower, please update your python to 3.10 or higher
