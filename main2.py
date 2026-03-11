@@ -1,7 +1,7 @@
-#--===============================================
+#--===============================================-
 #--  author: Tredict, Firr
 #--  credit: Tredd / Firr
-#--===============================================
+#--===============================================-
 
 from urllib.parse import quote
 from selenium import webdriver
@@ -208,3 +208,4 @@ os.startfile(steamstart)
 time.sleep(5)
 
 print("selesai, buka steam dan mainkan gamenya")
+
