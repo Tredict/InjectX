@@ -34,7 +34,9 @@ Before running InjectX, make sure your system meets these requirements:
 You can also run the program easily using:
 
 ./autorun.bat
+
 or
+
 open main.exe (demo file)
 
 This will automatically start InjectX.
