@@ -39,6 +39,10 @@ This will automatically start InjectX.
 
 ### 1. Install the required Python packages:
 
+open your command prompt
+
+git clone https://github.com/Tredict/InjectX
+
 pip install -r requirements.txt
 
 If the installation fails, use:
