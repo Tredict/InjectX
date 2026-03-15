@@ -96,11 +96,6 @@ def search_game(game):
 # ==========================
 
 def inject_game(appid, name):
-
-    print(f"Injecting {name} | AppID: {appid}")
-
-
-def inject_game(appid, name):
     
     print(f"Injecting {name} | AppID: {appid}")
 
